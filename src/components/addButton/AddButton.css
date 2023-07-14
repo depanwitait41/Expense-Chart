@@ -1,0 +1,17 @@
+.addButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+}
+.addingButton {
+  background-color: #00ad00;
+  color: white;
+  padding: 10px;
+}
+.addingButton:hover{
+  cursor: pointer;
+  border: 2px dotted #00ad00;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.7);
+}

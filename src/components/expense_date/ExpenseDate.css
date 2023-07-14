@@ -1,0 +1,22 @@
+.expense_whole_date {
+  display: list-item;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  border: 2px solid white;
+  min-width: 100px;
+}
+.year_style {
+  text-align: center;
+  font-size: 1rem;
+  color: #989898;
+}
+.month_style {
+  text-align: center;
+  font-size: 1rem;
+}
+.date_style {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bolder;
+}
